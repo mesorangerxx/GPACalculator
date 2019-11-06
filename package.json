@@ -1,0 +1,21 @@
+{
+  "name": "grounded-cake",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+    "util": "0.12.0",
+    "firebase": "5.11.1",
+    "react-navigation": "3.9.1",
+    "react-native-paper": "2.2.8",
+    "react-native-theming": "1.0.16"
+  }
+}
